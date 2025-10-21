@@ -1,0 +1,36 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
+
+# Build output directories
+/bin/
+/obj/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Generated files
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.log
+
+# Asset caches / temporary files
+*.cache
+*.tmp
+*.bak
+
+# External library build outputs
+Extern/CProcessing/Build/
+Extern/CProcessing/Binaries/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
